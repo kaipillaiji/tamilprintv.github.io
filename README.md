@@ -108,9 +108,9 @@ Year:
 </form>
 </div>
 <div class="head"><b>Downloads Menu</b></div>
-<div class="M1"><img src="1.gif"> <a href="/search.php?source=&genre=&rating=&year=2021">Tamil 2021 Movies</a><blink style="color: red;"> Updates Going On!!</blink><br></div>
-<div class="M2"><img src="2.gif"> <a href="/search.php?source=&genre=&rating=&year=2020">Tamil 2020 Movies</a><blink style="color: red;"> New!!</blink><br></div>
-<div class="M1"><img src="1.gif"> <a href="/search.php?source=&genre=&rating=&year=">Tamil All In One Folder</a><blink style="color: red;"> New!!</blink><br></div>
+<div class="M1"><img src="1.gif"> <a href="http://tamilprint1.live//search.php?source=&genre=&rating=&year=2021">Tamil 2021 Movies</a><blink style="color: red;"> Updates Going On!!</blink><br></div>
+<div class="M2"><img src="2.gif"> <a href="http://tamilprint1.live//search.php?source=&genre=&rating=&year=2020">Tamil 2020 Movies</a><blink style="color: red;"> New!!</blink><br></div>
+<div class="M1"><img src="1.gif"> <a href="http://tamilprint1.live//search.php?source=&genre=&rating=&year=">Tamil All In One Folder</a><blink style="color: red;"> New!!</blink><br></div>
 <div class="M2"><img src="2.gif"> <a href="//trdub.net">Tamil Dubbed Movies</a><blink style="color: red;"> New!!</blink><br></div>
 <div class="aut">Page Tags :</div>
 <div class="Tag"><font color="green">TamilPrint Mobile Movies Download, TamilPrint1.live Movies, tamilprint Download, TamilPrint Mob</font></div>
