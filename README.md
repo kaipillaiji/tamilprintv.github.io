@@ -1,24 +1,5 @@
 
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta name="language" content="en-us" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Tamil Mobile Movies Download Official - TamilPrint</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="TamilPrint Mobile Movies Download, TamilPrint1.live Movies, tamilprint Download, TamilPrint Mob" />
-<meta name="keywords" content="TamilPrint Mobile Movies Download, TamilPrint1.live 2021 Movies, tamilprint Download, TamilPrint Mob" />
-<meta name="classification" content="TamilPrint Mobile Movies Download, TamilPrint1.live Movies, tamilprint.com Download, TamilPrint Mob" />
-<meta name="distribution" content="Global" />
-<meta name="rating" content="General" />
-<meta name="robots" content="index, follow" />
-<meta name="revisit-after" content="2 days" />
-<link rel="shortcut icon" href="/4.gif" />
-<link rel="STYLESHEET" type="text/css" href="/tamilprint_style.css?v=14" media="all,handheld" />
-<link href="https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@500&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-</head><body>
+
 <style type="text/css"> 
 
 
@@ -133,4 +114,4 @@ Year:
 <div class="M2"><img src="2.gif"> <a href="//trdub.net">Tamil Dubbed Movies</a><blink style="color: red;"> New!!</blink><br></div>
 <div class="aut">Page Tags :</div>
 <div class="Tag"><font color="green">TamilPrint Mobile Movies Download, TamilPrint1.live Movies, tamilprint Download, TamilPrint Mob</font></div>
-<div class="bottom" align="center"><a href="/"><span style="color: #ffffff;">TamilPrint.CC</span></a><br> <span style="color: #000000;">Powred By: </span>TamilPrint Group</div></body></html>
+<div class="bottom" align="center"><a href="/"><span style="color: #ffffff;">TamilPrint.CC</span></a><br> <span style="color: #000000;">Powred By: </span>TamilPrint Group</div>
