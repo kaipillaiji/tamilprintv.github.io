@@ -1,117 +1,118 @@
 
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>TamilPrint | Tamilprint 2020 Movies Download Tamil movies download</title>
+<meta name="title" content="TamilPrint | Tamilprint 2020 Movies Download Tamil movies download">
+<meta name="description" content="tamilprint cc, tamilprint, tamilprint. cc, tamilprint cc 2019, tamilprint me, tamil movies download 2019, tamil movie download 2019, tamil movie download 2020, tamilprint in movies download, tamilprint cc 2019 tamil movies download, tamilprint in movies, tamilprint movies" />
+<meta name="keywords" content="tamilprint cc, tamilprint, tamilprint. cc, tamilprint cc 2019, tamilprint me, tamil movies download 2019, tamil movie download 2019, tamil movie download 2020, tamilprint in movies download, tamilprint cc 2019 tamil movies download, tamilprint in movies, tamilprint movies, tamilgun.1tamilgun" />
+<meta property="og:title" content="TamilPrint | Tamilprint 2020 Movies Download Tamil movies download" />
+<meta property="og:description" content="tamilprint cc, tamilprint, tamilprint. cc, tamilprint cc 2019, tamilprint me, tamil movies download 2019, tamil movie download 2019, tamil movie download 2020, tamilprint in movies download, tamilprint cc 2019 tamil movies download, tamilprint in movies, tamilprint movies"/>
+<meta property="og:site_name" content="www.playtamil.info"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"/>
+<meta name="robots" content="index, follow" />
+<meta name="language" content="en"/>
+<link rel="canonical" href="https://www.playtamil.info/tamilprint-movies" />
+<link rel="icon" type="image/png" href="https://www.playtamil.info/tamilprint-movies/favicon.ico" />
+<meta name="keyword" content="tamilprint cc, tamilprint, tamilprint. cc, tamilprint cc 2019, tamilprint me, tamil movies download 2019, tamil movie download 2019, tamil movie download 2020, tamilprint in movies download, tamilprint cc 2019 tamil movies download, tamilprint in movies, tamilprint movies" />
+<link type="text/css" rel="stylesheet" href="/templates/css/lite.css"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119679161-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<style type="text/css"> 
+  gtag('config', 'UA-119679161-1');
+</script>
+</head>
+<body>
+<div class="Title" align="center"><font size="6.5px"><b>PlayTamil.info</b></font><br/><b>Tamilprint HD Movies</b></div>
 
+<div class="Update1"><a href="/movies/isaimini">Isaimini Movies</a> | <a href="/movies/playtamil">PlayTamil Movies Download</a> | <a href="/movies/tamilgun-movies">TamilGun Movies</a> | <a href="/movies/tamilyogi-movies">TamilYogi Movies</a> | <a href="/movies/tamilplay-movies/">Tamilplay Movies</a> | <a href="/movies/tamilrasigan-movies-download/">TamilRasigan Movies</a> | <a href="/movies/moviesda-movies-download">Moviesda Movies</a></div>
+<div class="gmenu"><b>tamilprint, tamilprint 2021 movies, tamilprint 2021 tamil movies download, tamilprint new tamil movies download, tamilprint in movies download, tamilprint cc, tamilprint co movies download, tamilprint com 2021 movies download</b></div> 
 
+<div class="Title" align="center"><h2>Domain Changed To</h2></div>
+<div class="ml2">www.playtamil.info</div>
 
- body { background-color: white; 
-
-color: #282828; 
-
- }
-
- a { color: #CC0000; 
-
- }
-
-a:hover { text-decoration: underline; }
-
- </style>
-<style type="text/css">
-
- body {
-
-font-size: 12px; 
-
-font-family: verdana, "Comic Sans MS",Helvetica,sans-serif;
-
-margin-top: 0px;
-
-margin-right: auto;
-
-margin-bottom: 0px;
-
-margin-left: auto;
-
-padding: 0px;}
-
+<style>
+.ml2 {
+font-weight: 900;
+font-size: 3.5em;
+}
+.ml2 .letter {
+display: inline-block;
+line-height: 1em;
+}
 </style>
-<style type="text/css">a {text-decoration:none;}
 
-</style>
-<div class="head" align="center"><b>www.TamilPrint1.Live</b></div>
-<div class="head">Upcoming Updates</div><div class="M2"><font color="red"></font> <b></b> May 20th</div>
-<div class="head">Latest Updates</div><div class="M2"><img src="4.gif"><b><font color="plue"> The Vault (2021)</font></b> Tamil Dubbed Full Movie Added!</div><div class="M2"><img src="4.gif"><b><font color="plue"> Kasada Thapara (2021)</font></b> Tamil Full Movie 700mb 400mb Added!</div><div class="M2"><img src="4.gif"><b><font color="plue"> THE FAMILY MAN (2021) S02 EP (01-09)</font></b> Tamil Original Web Movie Added!!</div><div class="M2"><img src="4.gif"><b><font color="plue"> BOOMIKA (2021)</font></b> 400mb 700mb Tamil Movie Added!!</div><div class="M2"><img src="4.gif"><b><font color="plue"> NETRIKANN (2021)</font></b> Tamil Full Movie 700mb 400mb Added!</div><div class="M2"><img src="4.gif"><b><font color="plue"> NAVARASA (2021)</font></b> Tamil Full Movie Added!</div><div class="M2"><img src="4.gif"><b><font color="plue"> THITTAM IRANDU (2021)</font></b> Tamil Full Movie 400mb 700mb Added!!</div><div class="M2"><img src="4.gif"><b><font color="plue"> LOKI (2021) S01 All Episodes </font></b> Tamil Dubbed Added!!</div><div class="M2"><img src="4.gif"><b><font color="plue"> JOLT (2021)</font></b> Tamil Dubbed 400mb Full Movie Added!</div><div class="M2"><img src="4.gif"><b><font color="plue"> Wrath of Man (2021)</font></b> Tamil Dubbed 400mb 700mb Full Movie Added!</div><div class="menu">
-<form method="get" action="/search.php" accept-charset="UTF-8">
-<input name="" type="hidden" value="">
-<p class="">Search Movies:</p>
-<input name="source" autocomplete="on" type="search">
-Genre:
-<select name="genre">
-<option value="">All</option>
-<option value="action">Action</option>
-<option value="adventure">Adventure</option>
-<option value="animation">Animation</option>
-<option value="biography">Biography</option>
-<option value="comedy">Comedy</option>
-<option value="crime">Crime</option>
-<option value="documentary">Documentary</option>
-<option value="drama">Drama</option>
-<option value="family">Family</option>
-<option value="fantasy">Fantasy</option>
-<option value="film-noir">Film-Noir</option>
-<option value="game-show">Game-Show</option>
-<option value="history">History</option>
-<option value="horror">Horror</option>
-<option value="music">Music</option>
-<option value="musical">Musical</option>
-<option value="mystery">Mystery</option>
-<option value="news">News</option>
-<option value="reality-tv">Reality-TV</option>
-<option value="romance">Romance</option>
-<option value="sci-fi">Sci-Fi</option>
-<option value="sport">Sport</option>
-<option value="talk-show">Talk-Show</option>
-<option value="thriller">Thriller</option>
-<option value="war">War</option>
-<option value="western">Western</option>
-</select>
-Rating:
-<select name="rating">
-<option value="">All</option>
-<option value="9">9+</option>
-<option value="8">8+</option>
-<option value="7">7+</option>
-<option value="6">6+</option>
-<option value="5">5+</option>
-<option value="4">4+</option>
-<option value="3">3+</option>
-<option value="2">2+</option>
-<option value="1">1+</option>
-</select>
-Year:
-<select name="year">
-<option value="">All</option>
-<option value="2020">2020</option>
-<option value="2019">2019</option>
-<option value="2015-2018">2015-2018</option>
-<option value="2010-2014">2010-2014</option>
-<option value="2000-2009">2000-2009</option>
-<option value="1990-1999">1990-1999</option>
-<option value="1980-1989">1980-1989</option>
-<option value="1970-1979">1970-1979</option>
-<option value="1900-1969">1900-1969</option>
-</select>
-<div id="main-search-btn">
-<input class="button-green-download2-big" type="submit" value="Search">
+
+  <div class="Title"><h1><strong>Tamilprint Movies Download</h1></div>
+         
+        <div class="listz">
+        <div class="list"> <a href="/category/287/2021-new-tamil-movies/default/1.html" title="Tamil 2020 Movies">Latest Tamil 2021 Movies</a></div> 
+<div class="list"> <a href="/category/278/Latest-tamil-movies-2020/default/1.html" title="Tamil 2020 Movies">Tamil 2020 Movies</a></div> 
+            
+<div class="list"> <a href="/category/227/Tamil-2019-movies/default/1.html" title="Tamil 2019 Movies">Tamil 2019 Movies</a></div>   
+
+<div class="list"> <a href="/category/200/Tamil-2018-movies/default/1.html" title="Tamil 2018 Movies" rel="dofollow">Tamil 2018 Movies</a></div>   
+
+<div class="list"> <a href="/category/199/Tamil-2017-movies/default/1.html" title="Tamil 2017 Movies" rel="dofollow">Tamil 2017 Movies</a></div>   
+
+<div class="list"> <a href="/category/198/Tamil-2016-movies/default/1.html" title="Tamil 2016 Movies" rel="dofollow">Tamil 2016 Movies</a></div> 
+
+ <div class="list"> <a href="/category/197/Tamil-2015-movies/default/1.html" title="Tamil 2015 Movies" rel="dofollow">Tamil 2015 Movies</a></div>  
+
+<div class="list"> <a href="/category/214/Tamil-2014-movies/default/1.html" title="Tamil 2014 Movies" rel="dofollow">Tamil 2014 Movies</a></div>  
+
+<div class="list"> <a href="/category/215/Tamil-2013-movies/default/1.html" title="Tamil 2013 Movies" rel="dofollow">Tamil 2013 Movies</a></div>  
+
+<div class="list"> <a href="/category/195/Tamil-2012-movies/default/1.html" title="Tamil 2012 Movies" rel="dofollow">Tamil 2012 Movies</a></div>
+ 
+<div class="list"><a href="/category/222/Telugu-2018-movies/default/1.html">Telugu 2018 Full Movies</a> <b>[<font color="red">All Latest Updated</font>]</b></div>
+
 </div>
-</form>
-</div>
-<div class="head"><b>Downloads Menu</b></div>
-<div class="M1"><img src="1.gif"> <a href="http://tamilprint1.live//search.php?source=&genre=&rating=&year=2021">Tamil 2021 Movies</a><blink style="color: red;"> Updates Going On!!</blink><br></div>
-<div class="M2"><img src="2.gif"> <a href="http://tamilprint1.live//search.php?source=&genre=&rating=&year=2020">Tamil 2020 Movies</a><blink style="color: red;"> New!!</blink><br></div>
-<div class="M1"><img src="1.gif"> <a href="http://tamilprint1.live//search.php?source=&genre=&rating=&year=">Tamil All In One Folder</a><blink style="color: red;"> New!!</blink><br></div>
-<div class="M2"><img src="2.gif"> <a href="//trdub.net">Tamil Dubbed Movies</a><blink style="color: red;"> New!!</blink><br></div>
-<div class="aut">Page Tags :</div>
-<div class="Tag"><font color="green">TamilPrint Mobile Movies Download, TamilPrint1.live Movies, tamilprint Download, TamilPrint Mob</font></div>
-<div class="bottom" align="center"><a href="/"><span style="color: #ffffff;">TamilPrint.CC</span></a><br> <span style="color: #000000;">Powred By: </span>TamilPrint Group</div>
+
+
+
+<div class="Title" align="center"><h1>Tamilprint Dubbed Movies Download</h1></div>
+         
+         
+<div class="list"> <a href="/category/289/Tamil-2021-dubbed-movies/default/1.html" title="Tamil Dubbed 2021 Movies">New Tamil Dubbed 2021 Movies</a></div> 
+
+<div class="list"> <a href="/category/283/Tamil-2020-dubbed-movies/default/1.html" title="Tamil Dubbed 2020 Movies">Tamil Dubbed 2020 Movies</a></div> 
+
+   <div class="list"><a href="/category/261/Tamil-2019-dubbed-movies/default/1.html">Tamil 2019 Dubbed Movies</a></div>
+   
+   <div class="list"><a href="/category/210/Tamil-2018-dubbed-movies/default/1.html">Tamil 2018 Dubbed Movies</a></div>
+
+<div class="list"><a href="/category/209/Tamil-2017-dubbed-movies/default/1.html">Tamil 2017 Dubbed Movies</a></div>
+
+<div class="list"><a href="/category/208/Tamil-2016-dubbed-movies/default/1.html">Tamil 2016 Dubbed Movies</a></div>
+
+<div class="list"><a href="/category/207/Tamil-2015-dubbed-movies/default/1.html">Tamil 2015 Dubbed Movies</div>
+
+<div class="list"><a href="/category/206/Tamil-2014-dubbed-movies/default/1.html">Tamil 2014 Dubbed Movies</a></div>
+
+<div class="list"><a href="/category/205/Tamil-2013-dubbed-movies/default/1.html">Tamil 2013 Dubbed Movies</a></div>
+
+<div class="list"><a href="/category/204/Tamil-2012-dubbed-movies/default/1.html">Tamil 2012 Dubbed Movies</a></div>
+
+<div class="list"><a href="/category/203/Tamil-2011-dubbed-movies/default/1.html">Tamil 2011 Dubbed Movies</a></div>
+
+<div class="list"><a href="/category/201/Tamil-2010-dubbed-movies/default/1.html">Tamil 2010 Dubbed Movies</a></div>
+
+<div class="list"><a href="/category/202/Tamil-old-dubbed-movies/default/1.html">Tamil Old Dubbed Movies</a></div>
+
+
+
+tamilprint cc, tamilprint, tamilprint. cc, tamilprint cc 2021, tamilprint me, tamil movies download 2021, tamil movie download 2021, tamil movie download 2021, tamilprint in movies download, tamilprint cc 2021 tamil movies download, tamilprint in movies, tamilprint movies
+
+
+<div class="path" align="left"><b>»</b> 
+<b><a href="/services/disclaimer.html">Site Disclaimer</a></b></div>
+<div class="Title" align="center">© PlayTamil <br/>♣ Daily New Updates ♣</div>
+
+</body>
+</html>	
